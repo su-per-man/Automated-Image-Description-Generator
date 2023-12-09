@@ -10,3 +10,5 @@ Use the below links to download the images and the text descriptions:
 1. [Images](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
 
 2. [Text Description](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
+
+Download the [glove6B.zip](https://nlp.stanford.edu/data/glove.6B.zip) and I have used the 200d version.
